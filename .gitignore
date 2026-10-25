@@ -1,3 +1,5 @@
+# Project data — never commit (size + medical data privacy)
+data/
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
